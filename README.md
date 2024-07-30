@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# MobilePortfolio
+
+Welcome to **MobilePortfolio**! This is a starter project designed to help mobile developers showcase their best apps. 
 
 ## Getting Started
 
