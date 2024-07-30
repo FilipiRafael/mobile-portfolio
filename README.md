@@ -1,6 +1,6 @@
 # MobilePortfolio
 
-Welcome to **MobilePortfolio**! This is a starter project designed to help mobile developers showcase their best apps. 
+This is a starter project designed to help mobile developers showcase their best apps. 
 
 ## Getting Started
 
