@@ -8,7 +8,7 @@ export default function Home() {
           Filipi Rafael
         </h1>
         <h2 className="text-5xl md:text-6xl text-white/80 text-center font-extrabold mt-6 tracking-tighter">
-          Mobile Software Enginner | React Native
+          Mobile Software Engineer | React Native
         </h2>
 
         <div className="w-full flex flex-col md:flex-row justify-between align-center mt-6">
