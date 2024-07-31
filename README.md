@@ -1,5 +1,5 @@
-# MobilePortfolio
 ![preview](https://github.com/user-attachments/assets/6f9546b4-a81c-4f7e-be5d-cf2600fe2814)
+# MobilePortfolio
 
 This is a starter project designed to help mobile developers showcase their best apps. 
 
